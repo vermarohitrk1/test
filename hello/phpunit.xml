@@ -29,5 +29,10 @@
         <env name="MAIL_DRIVER" value="array"/>
         <env name="QUEUE_CONNECTION" value="sync"/>
         <env name="SESSION_DRIVER" value="array"/>
+<<<<<<< HEAD
     </phpddd ddd>
 </phpunitsdfsfdsfdsfds>
+=======
+    </wwww>
+</>
+>>>>>>> 3caf1095db5be6c2b4e58e40a83ef3c3e6990af8
